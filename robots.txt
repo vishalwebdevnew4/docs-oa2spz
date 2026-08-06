@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-tqz9k8.al-bushra.net/sitemap.xml
